@@ -1,0 +1,81 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-admobpro": {
+            "ADMOB_APP_ID": "ca-app-pub-7093468285606099~8105045485",
+            "PLAY_SERVICES_VERSION": "16.0.0",
+            "PACKAGE_NAME": "com.coved"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.covigyaan"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "com.coved"
+        }
+    }
+}

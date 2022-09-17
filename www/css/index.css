@@ -1,0 +1,27 @@
+a.navbar-brand{
+  font-family: 'Stalinist One', cursive;  
+}
+
+.fa{
+    font-size:50px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.thumbnail{
+    width:100%
+}
+.justice{
+    padding-right: 3%;
+    padding-left: 3%;
+    
+   
+    text-align: justify;
+}
+h4{
+   font-family: 'Sriracha', cursive; 
+}
+p{
+    font-family: 'Russo One', sans-serif;
+}
